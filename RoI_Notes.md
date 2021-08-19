@@ -1,11 +1,11 @@
-Families of RoI
+## Families of RoI
 
-Roi Pooling --> Paper Fast R-CNN [1]
-
-Roi Align --> Paper Mask R-CNN [2]
-
-PrROI Pooling --> Paper IoU-Net [3]
-
+### 1] Roi Pooling
+Introduced in *Fast R-CNN [1]*
+### 2] Roi Align
+Introduced in *Mask R-CNN [2]*
+### 3] PrROI Pooling
+Introduced in *IoU-Net [3]*
 
 References:
 [1] Girshick, Ross. "Fast r-cnn." Proceedings of the IEEE international conference on computer vision. 2015.
